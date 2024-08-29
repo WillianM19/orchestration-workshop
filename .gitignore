@@ -1,0 +1,15 @@
+*.py[co]
+docs/build
+dist/
+build/
+MANIFEST
+.coverage
+.tox/
+.cache/
+venv/
+*.egg-info/
+htmlcov/
+coverage.xml
+.pytest_cache
+.env
+media/
