@@ -1,6 +1,9 @@
 # Oficina - Orquestração de serviços
 
-Este repositório contém o projeto desenvolvido durante a matéria de Desenvolvimento de Sistemas Distribuídos. O projeto demonstra uma implementação básica de uma orquestração de microsserviços com Django. Os microsserviços incluídos neste projeto são:
+Este repositório contém a atividade da oficina desenvolvida durante a matéria de Desenvolvimento de Sistemas Distribuídos - IFRN. 
+O projeto demonstra uma implementação básica de uma orquestração de serviços com Django. 
+
+Os microsserviços incluídos neste projeto são:
 
 - inventory-service: Gerencia o inventário de produtos.
 - order-service: Responsável pelo gerenciamento de pedidos.
